@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" fill="none">
+  <rect width="800" height="400" fill="#0a1628"/>
+  <defs>
+    <linearGradient id="g3" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <circle cx="400" cy="200" r="100" stroke="url(#g3)" stroke-width="3" fill="none"/>
+  <ellipse cx="400" cy="200" rx="100" ry="35" stroke="#8b5cf6" stroke-width="2" fill="none" opacity="0.6"/>
+  <ellipse cx="400" cy="200" rx="35" ry="100" stroke="#22d3ee" stroke-width="2" fill="none" opacity="0.6"/>
+  <text x="400" y="340" text-anchor="middle" fill="#94a3b8" font-family="system-ui" font-size="24" font-weight="600">GlobeSync</text>
+</svg>
